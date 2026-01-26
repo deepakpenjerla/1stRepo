@@ -1,0 +1,54 @@
+ccessKey
+: 
+""
+align
+: 
+""
+attributeStyleMap
+: 
+StylePropertyMap {size: 0}
+attributes
+: 
+NamedNodeMap {0: class, class: class, length: 1}
+autocapitalize
+: 
+""
+autofocus
+: 
+false
+baseURI
+: 
+"https://www.linkedin.com/jobs/search/?currentJobId=4358570681&keywords=jobs&origin=BLENDED_SEARCH_RESULT_NAVIGATION_JOB_CARD&originToLandingJobPostings=4265152852%2C4263086445%2C4264441818"
+childElementCount
+: 
+8
+childNodes
+: 
+NodeList(84) [text, text, text, text, comment, text, text, text, div, text, text, text, comment, text, text, text, text, text, text, text, text, text, text, div.upsell-premium-custom-section-card__container, text, text, text, text, text, text, text, text, div.hidden.job-details-module.relative, text, text, text, comment, text, comment, text, comment, text, text, text, div.job-details-module, text, text, comment, text, text, text, text, div.jobs-box--fadein.jobs-box--full-width.jobs-box--with-cta-large.jobs-description.jobs-descriptio…, text, text, text, comment, text, comment, text, comment, text, text, div#SALARY.jobs-details__salary-main-rail-card, text, text, text, text, div#how-you-match-card-container.job-details-how-you-match-card__container.mb4.artdeco-card.job-det…, text, text, text, text, comment, text, comment, text, text, section.artdeco-card.job-details-module, text, text, comment, comment, text]
+children
+: 
+HTMLCollection(8) [div, div.upsell-premium-custom-section-card__container, div.hidden.job-details-module.relative, div.job-details-module, div.jobs-box--fadein.jobs-box--full-width.jobs-box--with-cta-large.jobs-description.jobs-descriptio…, div#SALARY.jobs-details__salary-main-rail-card, div#how-you-match-card-container.job-details-how-you-match-card__container.mb4.artdeco-card.job-det…, section.artdeco-card.job-details-module, SALARY: div#SALARY.jobs-details__salary-main-rail-card, how-you-match-card-container: div#how-you-match-card-container.job-details-how-you-match-card__container.mb4.artdeco-card.job-det…]
+classList
+: 
+DOMTokenList(3) ['jobs-details__main-content', 'jobs-details__main-content--single-pane', 'full-width', value: 'jobs-details__main-content jobs-details__main-content--single-pane full-width\n            ']
+className
+: 
+"jobs-details__main-content jobs-details__main-content--single-pane full-width\n            "
+clientHeight
+: 
+4909
+clientLeft
+: 
+0
+clientTop
+: 
+0
+clientWidth
+: 
+362
+contentEditable
+: 
+"inherit"
+currentCSSZoom
+: 
+1
